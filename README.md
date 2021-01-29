@@ -5,10 +5,10 @@ Unfinished project of minesweeper game
 
 
 ## Searching XML file with GUI
-![Alt Text](https://recordit.co/RCLi1YXV1d)
+![Alt Text](http://g.recordit.co/RCLi1YXV1d.gif)
 
 ## Open XML and XSLT file with browser
-![Alt Text](http://recordit.co/vSvfS4dHqS)
+![Alt Text](http://g.recordit.co/vSvfS4dHqS.gif)
 
 ## Built
 
