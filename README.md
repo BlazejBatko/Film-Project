@@ -1,6 +1,6 @@
 # Film library python using xml
 
-Unfinished project of minesweeper game
+Python movie library that uses xml data to show output from file
 
 
 
